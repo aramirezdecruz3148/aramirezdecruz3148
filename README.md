@@ -27,5 +27,5 @@
 <br />
 
 #### Stats
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramirezdecruz3148&layout=compact&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)
-   [![My github stats](https://github-readme-stats.vercel.app/api?username=aramirezdecruz3148&hide=stars,issues&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramirezdecruz3148&layout=compact&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=aramirezdecruz3148&hide=stars,issues&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)</span>

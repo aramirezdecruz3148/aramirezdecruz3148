@@ -1,6 +1,6 @@
 ![banner](https://github.com/aramirezdecruz3148/aramirezdecruz3148/blob/master/banner.gif)
 
-<div align="left">I am a Full-Stack Software Developer that leads with curiosity, passion, drive and a healthy amount of play. My background in the arts has primed my tech career with empathy  and a love for dynamic collaboration. As a queer woman of color, I value diversity of thought, technology and humans; and I love the daily challenge of navigating how that diversity coexists. I am brave in my contributions, have a thirst for learning new tech and embrace failure. I value spending my time away from the computer mentoring those pursuing tech and speaking at meet ups.</div>
+<p text-align="center">I am a Full-Stack Software Developer that leads with curiosity, passion, drive and a healthy amount of play. My background in the arts has primed my tech career with empathy  and a love for dynamic collaboration. As a queer woman of color, I value diversity of thought, technology and humans; and I love the daily challenge of navigating how that diversity coexists. I am brave in my contributions, have a thirst for learning new tech and embrace failure. I value spending my time away from the computer mentoring those pursuing tech and speaking at meet ups.</p>
 
 
 <br />
@@ -27,5 +27,5 @@
 <br />
 
 #### Stats
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramirezdecruz3148&layout=compact&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)
+<span style="display:block;text-align:center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramirezdecruz3148&layout=compact&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)
 [![My github stats](https://github-readme-stats.vercel.app/api?username=aramirezdecruz3148&hide=stars,issues&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)</span>

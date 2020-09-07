@@ -8,6 +8,7 @@ I am a Full-Stack Software Developer that leads with curiosity, passion, drive a
 
 
 <br />
+
 #### Tech Stack
 * **Languages:** Ruby, JavaScript, HTML/CSS
 * **Back-End:** Rails, GraphQL, Node.js, Express
@@ -26,11 +27,7 @@ I am a Full-Stack Software Developer that leads with curiosity, passion, drive a
 * 🤝  <a href="https://www.youtube.com/watch?v=9yDNvY2rNKc&list=PLclEcT4yxER6PwyVVfJwnD6Vq26tUA-XE&index=1">*Dynamic Collaboration: Tips and Tools for Coding Collaboratively*</a> **PDXWIT 2020**
 
 <br />
-<br /> 
-<br />
 <hr />
-<br />
-<br />
 <br />
 
 #### Stats

@@ -1,20 +1,18 @@
 ![banner](https://github.com/aramirezdecruz3148/aramirezdecruz3148/blob/master/banner.gif)
 
-<div align="center">I am a Full-Stack Software Developer that leads with curiosity, passion, drive and a healthy amount of play. My background in the arts has primed my tech career with empathy  and a love for dynamic collaboration. As a queer woman of color, I value diversity of thought, technology and humans; and I love the daily challenge of navigating how that diversity coexists. I am brave in my contributions, have a thirst for learning new tech and embrace failure. I value spending my time away from the computer mentoring those pursuing tech and speaking at meet ups.</div>
+<div align="left">I am a Full-Stack Software Developer that leads with curiosity, passion, drive and a healthy amount of play. My background in the arts has primed my tech career with empathy  and a love for dynamic collaboration. As a queer woman of color, I value diversity of thought, technology and humans; and I love the daily challenge of navigating how that diversity coexists. I am brave in my contributions, have a thirst for learning new tech and embrace failure. I value spending my time away from the computer mentoring those pursuing tech and speaking at meet ups.</div>
 
 
 <br />
 
-<h4 align="right">Tech Stack</h4>
-<ul align="right">
- <li>**Languages:** Ruby, JavaScript, HTML/CSS</li>
- <li>**Back-End:** Rails, GraphQL, Node.js, Express</li>
- <li>**Front-End:** React, Redux, jQuery</li>
- <li>**Databases:** PostgreSQL, MongoDB, Mongoose, Firebase</li>
- <li>**Tools:** Slack, GitHub, Jira, VScode, Heroku, Netlify</li>
- <li>**Testing Suites:** Cypress, Rspec, Semaphore CI, Jest, QUnit</li>
- <li>**Dev Practices:** TDD, DDD Pair/Mob Programming, Scrum</li>
-</ul>
+####Tech Stack
+* **Languages:** Ruby, JavaScript, HTML/CSS
+* **Back-End:** Rails, GraphQL, Node.js, Express
+* **Front-End:** React, Redux, jQuery
+* **Databases:** PostgreSQL, MongoDB, Mongoose, Firebase
+* **Tools:** Slack, GitHub, Jira, VScode, Heroku, Netlify
+* **Testing Suites:** Cypress, Rspec, Semaphore CI, Jest, QUnit
+* **Dev Practices:** TDD, DDD Pair/Mob Programming, Scrum
 
 <br />
 <hr />
@@ -29,5 +27,5 @@
 <br />
 
 #### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramirezdecruz3148&layout=compact&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)
-[![My github stats](https://github-readme-stats.vercel.app/api?username=aramirezdecruz3148&hide=stars,issues&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramirezdecruz3148&layout=compact&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)</span>
+<span>[![My github stats](https://github-readme-stats.vercel.app/api?username=aramirezdecruz3148&hide=stars,issues&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)</span>

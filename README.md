@@ -15,8 +15,8 @@ https://alexramirezdecruz.com/
 * **Dev Practices:** TDD, DDD Pair/Mob Programming, Scrum
 ****
 ### ⚡️ Lightning Talks
-* 🦸🏽‍♀️ <a href="https://youtu.be/mxTpV7lDGe8">*Claim Your Super Powers!*</a> **Donut.js 2019**
-* 🤝  <a href="https://www.youtube.com/watch?v=9yDNvY2rNKc&list=PLclEcT4yxER6PwyVVfJwnD6Vq26tUA-XE&index=1">*Dynamic Collaboration: Tips and Tools for Coding Collaboratively*</a> **PDXWIT 2020**
+* 🦸🏽‍♀️ <a href="https://youtu.be/mxTpV7lDGe8">*Claim Your Super Powers!*</a> **PDXWIT 2020**
+* 🤝  <a href="https://www.youtube.com/watch?v=9yDNvY2rNKc&list=PLclEcT4yxER6PwyVVfJwnD6Vq26tUA-XE&index=1">*Dynamic Collaboration: Tips and Tools for Coding Collaboratively*</a> **Donut.js 2019** 
 ****
 ### 📈 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramirezdecruz3148&layout=compact&theme=vision-friendly-dark)](https://github.com/aramirezdecruz3148/github-readme-stats)

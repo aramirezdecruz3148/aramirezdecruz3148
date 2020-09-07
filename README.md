@@ -5,7 +5,7 @@
 
 <br />
 
-####Tech Stack
+#### Tech Stack
 * **Languages:** Ruby, JavaScript, HTML/CSS
 * **Back-End:** Rails, GraphQL, Node.js, Express
 * **Front-End:** React, Redux, jQuery
@@ -27,5 +27,5 @@
 <br />
 
 #### Stats
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramirezdecruz3148&layout=compact&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)</span>
-<span>[![My github stats](https://github-readme-stats.vercel.app/api?username=aramirezdecruz3148&hide=stars,issues&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)</span>
+<span style="display:block;text-align:center;margin-right:10px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramirezdecruz3148&layout=compact&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)</span>
+<span style="display:block;text-align:center">[![My github stats](https://github-readme-stats.vercel.app/api?username=aramirezdecruz3148&hide=stars,issues&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/aramirezdecruz3148/github-readme-stats)</span>

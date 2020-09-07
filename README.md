@@ -7,7 +7,7 @@
 
 <br />
 
-#### 💻 Tech Stack
+### 💻 Tech Stack
 * **Languages:** Ruby, JavaScript, HTML/CSS
 * **Back-End:** Rails, GraphQL, Node.js, Express
 * **Front-End:** React, Redux, jQuery
@@ -20,7 +20,7 @@
 <hr />
 <br />
 
-#### ⚡️ Lightning Talks
+### ⚡️ Lightning Talks
 * 🦸🏽‍♀️ <a href="https://youtu.be/mxTpV7lDGe8">*Claim Your Super Powers!*</a> **Donut.js 2019**
 * 🤝  <a href="https://www.youtube.com/watch?v=9yDNvY2rNKc&list=PLclEcT4yxER6PwyVVfJwnD6Vq26tUA-XE&index=1">*Dynamic Collaboration: Tips and Tools for Coding Collaboratively*</a> **PDXWIT 2020**
 
@@ -28,6 +28,6 @@
 <hr />
 <br />
 
-#### 📈 Stats
+### 📈 Stats
 <span style="display:block;text-align:center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramirezdecruz3148&layout=compact&theme=vision-friendly-dark)](https://github.com/aramirezdecruz3148/github-readme-stats)
 [![My github stats](https://github-readme-stats.vercel.app/api?username=aramirezdecruz3148&hide=stars,issues&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/aramirezdecruz3148/github-readme-stats)</span>

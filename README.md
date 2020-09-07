@@ -5,14 +5,16 @@
 
 <br />
 
-#### Tech Stack
-* **Languages:** Ruby, JavaScript, HTML/CSS
-* **Back-End:** Rails, GraphQL, Node.js, Express
-* **Front-End:** React, Redux, jQuery
-* **Databases:** PostgreSQL, MongoDB, Mongoose, Firebase
-* **Tools:** Slack, GitHub, Jira, VScode, Heroku, Netlify
-* **Testing Suites:** Cypress, Rspec, Semaphore CI, Jest, QUnit
-* **Dev Practices:** TDD, DDD Pair/Mob Programming, Scrum
+<h4 align="right">Tech Stack</h4>
+<ul align="right">
+ <li>**Languages:** Ruby, JavaScript, HTML/CSS</li>
+ <li>**Back-End:** Rails, GraphQL, Node.js, Express</li>
+ <li>**Front-End:** React, Redux, jQuery</li>
+ <li>**Databases:** PostgreSQL, MongoDB, Mongoose, Firebase</li>
+ <li>**Tools:** Slack, GitHub, Jira, VScode, Heroku, Netlify</li>
+ <li>**Testing Suites:** Cypress, Rspec, Semaphore CI, Jest, QUnit</li>
+ <li>**Dev Practices:** TDD, DDD Pair/Mob Programming, Scrum</li>
+</ul>
 
 <br />
 <hr />

@@ -2,17 +2,16 @@
 <img src="https://github.com/aramirezdecruz3148/aramirezdecruz3148/blob/master/duck.png" alt="drawing" width="75"/>
 ![three words](https://github.com/aramirezdecruz3148/aramirezdecruz3148/blob/master/words.gif)
 
-<p text-align="center">I am a Software Engineer with experience in JavaScript, (Ember, React) and a front-end obsession. I love data, component structure and clean testing. I lead with curiosity, passion, drive and a healthy amount of play. My background in the arts has primed my tech career with empathy and a love for dynamic collaboration. As a queer woman of color, I value diversity of thought, technology and humans; and I love the daily challenge of navigating how that diversity coexists. I am brave in my contributions, have a thirst for learning new tech and embrace failure. I value spending my time away from the computer making time and space to mentor and meet with those pursuing tech.</p>
+<p text-align="center">I am a Software Engineer with experience in JavaScript, <em>(Ember, React)</em> and a front-end obsession. I love data, component structure and clean testing. I lead with curiosity, passion, drive and a healthy amount of play. My background in the arts has primed my tech career with empathy and a love for dynamic collaboration. As a queer woman of color, I value diversity of thought, technology and humans; and I love the daily challenge of navigating how that diversity coexists. I am brave in my contributions, have a thirst for learning new tech and embrace failure. I value spending my time away from the computer making time and space to mentor and meet with those pursuing tech.</p>
 https://alexramirezdecruz.com/
 
 ### 💻 Tech Stack
-* **Languages:** Ruby, JavaScript, HTML/CSS
+* **Languages:** JavaScript, Ruby, HTML/CSS
+* * **Front-End:** Ember, React, Tailwind, Redux, GlimmerX
 * **Back-End:** Rails, GraphQL, Node.js, Express
-* **Front-End:** React, Redux, jQuery
-* **Databases:** PostgreSQL, MongoDB, Mongoose, Firebase
-* **Tools:** Slack, GitHub, Jira, VScode, Heroku, Netlify
-* **Testing Suites:** Cypress, Rspec, Semaphore CI, Jest, QUnit
-* **Dev Practices:** TDD, DDD Pair/Mob Programming, Scrum
+* **Databases:** PostgreSQL, MongoDB, Firebase
+* **Tools:** Slack, GitHub, Jira, VScode, Prismic, Shopify, Heroku
+* **Testing Suites:** QUnit, Cypress, Rspec, Semaphore CI, Jest
 ****
 ### ⚡️ Lightning Talks
 * 🦸🏽‍♀️ <a href="https://youtu.be/mxTpV7lDGe8">*Claim Your Super Powers!*</a> **PDXWIT 2020**

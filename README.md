@@ -1,4 +1,4 @@
-![banner](https://github.com/aramirezdecruz3148/aramirezdecruz3148/blob/master/banner.gif)
+![banner](https://github.com/aramirezdecruz3148/aramirezdecruz3148/blob/master/banner3.gif)
 <img src="https://github.com/aramirezdecruz3148/aramirezdecruz3148/blob/master/duck.png" alt="drawing" width="75"/>
 ![three words](https://github.com/aramirezdecruz3148/aramirezdecruz3148/blob/master/words.gif)
 

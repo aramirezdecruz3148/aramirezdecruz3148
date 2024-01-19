@@ -7,7 +7,7 @@ https://alexramirezdecruz.com/
 
 ### 💻 Tech Stack
 * **Languages:** JavaScript, Ruby, HTML/CSS
-* * **Front-End:** Ember, React, Tailwind, Redux, GlimmerX
+* **Front-End:** Ember, React, Tailwind, Redux, GlimmerX
 * **Back-End:** Rails, GraphQL, Node.js, Express
 * **Databases:** PostgreSQL, MongoDB, Firebase
 * **Tools:** Slack, GitHub, Jira, VScode, Prismic, Shopify, Heroku
